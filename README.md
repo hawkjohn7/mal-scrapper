@@ -1,2 +1,2 @@
 # mal-scrapper
-for scrape MAL
+for scrape Myanimelist.net
